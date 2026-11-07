@@ -308,7 +308,7 @@ def build_excel(
 # ---------------- Streamlit UI ----------------
 st.set_page_config(page_title="Internal Mark Generator", layout="wide")
 st.title("PG Internal Assessment – Form A Generator")
-st.caption("Mahatma Gandhi University, Kottayam · CSS PG Programme")
+st.caption("Baselius COllege Kottayam · CSS PG Programme")
 
 with st.sidebar:
     st.header("Course Details")
